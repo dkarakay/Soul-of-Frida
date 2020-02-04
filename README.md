@@ -8,17 +8,9 @@ Soul of Frida is a puzzle game that we restore the works of famous artist Frida 
 # Screenshots: 
 ![test](https://github.com/favicon.ico)
 
-# Diversifiers: 
-Unsung heroines
+# For Windows
+<a href="https://github.com/dkarakay/Soul-of-Frida/raw/master/Soul%20of%20Frida/Release/Windows.zip" target="_blank">Download</a> and extract this zip file. Then run Soul of Frida.exe
 
-# Platforms: 
-MS Windows, Mac OS X, Web standard (HTML5, Java, JavaScript, Flash), Android device, iPhone, iPad
-
-# Tools And Technologies: 
-Unity (any product)
-
-# Technology Notes: 
-Adobe Photoshop 2020, Visual Studio, XCode
 
 # Credits: 
 Deniz Karakay - Game Developer, Senem Aksakal - Game Designer
