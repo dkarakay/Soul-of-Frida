@@ -5,11 +5,8 @@ Soul of Frida is developed under 48 hours for Global Game Jam (GGJ) Atom 2020 ev
 # About 
 Soul of Frida is a puzzle game that we restore the works of famous artist Frida Kahlo. To restore the tables in the game; we need to match the right parts, choose the right color and paint the damaged area.
 
-# Jam Site: 
-GGJATOM
-
-# Jam Year: 
-2020
+# Screenshots: 
+![test](https://github.com/favicon.ico)
 
 # Diversifiers: 
 Unsung heroines
