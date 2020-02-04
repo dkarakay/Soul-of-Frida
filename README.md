@@ -9,7 +9,10 @@ Soul of Frida is a puzzle game that we restore the works of famous artist Frida 
 ![test](https://github.com/favicon.ico)
 
 # For Windows
-<a href="https://github.com/dkarakay/Soul-of-Frida/raw/master/Soul%20of%20Frida/Release/Windows.zip" target="_blank">Download</a> and extract this zip file. Then run Soul of Frida.exe
+<a href="https://github.com/dkarakay/Soul-of-Frida/raw/master/Soul%20of%20Frida/Release/Windows.zip" target="_blank">Download</a> and extract this zip file. Then run Soul of Frida.exe file! 
+
+# For MacOS
+<a href="https://github.com/dkarakay/Soul-of-Frida/raw/master/Soul%20of%20Frida/Release/Mac.zip" target="_blank">Download</a> and extract this .zip file. Then run Soul of Frida.app file!
 
 
 # Credits: 
