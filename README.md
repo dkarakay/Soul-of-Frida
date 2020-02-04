@@ -1,6 +1,7 @@
 # Soul of Frida
 
 Soul of Frida is developed under 48 hours for Global Game Jam (GGJ) Atom 2020 event!
+
 GGJ link: https://globalgamejam.org/2020/games/soul-frida-4
 
 # About 
