@@ -7,8 +7,11 @@ GGJ link: https://globalgamejam.org/2020/games/soul-frida-4
 # About 
 Soul of Frida is a puzzle game that we restore the works of famous artist Frida Kahlo. To restore the tables in the game; we need to match the right parts, choose the right color and paint the damaged area.
 
-# For Windows
-<a href="https://github.com/dkarakay/Soul-of-Frida/raw/master/Soul%20of%20Frida/Release/Windows.zip" target="_blank">Download</a> and extract this zip file. Then run Soul of Frida.exe file! 
+# To Play on Web
+<a href="https://dkarakay.itch.io/soul-of-frida
+" target="_blank">Click</a> and open our itch.io page
+
+
 
 # For MacOS
 <a href="https://github.com/dkarakay/Soul-of-Frida/raw/master/Soul%20of%20Frida/Release/Mac.zip" target="_blank">Download</a> and extract this .zip file. Then run Soul of Frida.app file!
