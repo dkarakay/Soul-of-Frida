@@ -17,9 +17,7 @@ Soul of Frida is a puzzle game that we restore the works of famous artist Frida 
 ![test](https://raw.githubusercontent.com/dkarakay/Soul-of-Frida/master/Soul%20of%20Frida/Press/soul_of_frida_3-min.png)
 ![test](https://raw.githubusercontent.com/dkarakay/Soul-of-Frida/master/Soul%20of%20Frida/Press/soul_of_frida_4-min.png)
 ![test](https://raw.githubusercontent.com/dkarakay/Soul-of-Frida/master/Soul%20of%20Frida/Press/soul_of_frida_5-min.png)
-![test](https://raw.githubusercontent.com/dkarakay/Soul-of-Frida/master/Soul%20of%20Frida/Press/soul_of_frida_6-min.png)
-![test](https://raw.githubusercontent.com/dkarakay/Soul-of-Frida/master/Soul%20of%20Frida/Press/soul_of_frida_7-min.png)
-![test](https://raw.githubusercontent.com/dkarakay/Soul-of-Frida/master/Soul%20of%20Frida/Press/soul_of_frida_8-min.png)
+
 
 
 # Credits: 
